@@ -14,7 +14,6 @@ By [ Carol Dweck ] (https://www.ted.com/talks/carol_dweck_the_power_of_believing
 ## Description
 **About The Video**
 
-
 Carol Dweck researches “growth mindset” — the idea that we can grow our brain's capacity to learn and to solve problems. In this talk, she describes two ways to think about a problem that’s slightly too hard for you to solve. Are you not smart enough to solve it … or have you just not...
 
 
@@ -48,7 +47,7 @@ Activities designed, typically by a teacher, for the sole purpose of effectively
    <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## The publisher
-**About TEDx**
+**About TEDx:**
  
 TEDx was created in the spirit of TED's mission, "ideas worth spreading." It supports independent organizers who want to create a TED-like event in their own community.
 
