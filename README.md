@@ -45,11 +45,12 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 
 
 
+<hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-   <hr/>
-## Usage explanation
+   
+## Note :
 
 
     If you’ve already watched/read/listened to the below before, just take some time and revisit them.
