@@ -1,4 +1,4 @@
-# The power of believing that you can improve
+# Grit: The power of passion and perseverance
 <!-- This is the reading notes repository where I keep my favorite articles with their sources.
        
        Hope you'll benefit from my reads, Enjoy!
