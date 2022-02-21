@@ -17,7 +17,7 @@ By [ Andrew Broman ] (https://web.archive.org/web/20160616225417/http://www.happ
                    Hope you'll benefit from my reads, Enjoy!.
 
 
-<hr/>
+<br/>
 
 
 ## Quote
@@ -28,7 +28,7 @@ By [ Andrew Broman ] (https://web.archive.org/web/20160616225417/http://www.happ
 - [Cal Newport] 
 
 
-<hr/>
+<br/>
     <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
@@ -44,8 +44,8 @@ Activities designed, typically by a teacher, for the sole purpose of effectively
 
 
 
+
 <br/>
-<hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
 
   <br/><br/>
