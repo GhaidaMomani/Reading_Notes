@@ -28,7 +28,7 @@ By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
 ## Usage explanation
 
 
-You will find a separate file for each article with it's source and a brief summmary for it.
+You will find a separate file for each article/video with it's source and a brief summmary for it.
 
 sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 
@@ -39,7 +39,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 <!-- ROADMAP -->
 ## Roadmap
 
-- [1] Each article will have it's own README file.
+- [1] Each article/video will have it's own README file.
 - [2] The README will contain the link of the article with the Autor name
 - [3] The README will contain Date of the written summary.
 
@@ -51,8 +51,6 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 
    
 ## Note :
-
-
     If you’ve already watched/read/listened to the below before, just take some time and revisit them.
     your edits and suggestions are welcome.
  
