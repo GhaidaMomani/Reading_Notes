@@ -63,4 +63,4 @@ With that in mind, this is some prework to get us all on the same page about dea
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 21 Feb </p>
+  <p align="right">22, 22 Feb </p>
