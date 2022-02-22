@@ -1,4 +1,5 @@
 # Reading_Notes
+## Prep Your Mindset
 
 <!-- This is the reading notes repository where I keep my favorite articles with their sources.
        
@@ -25,12 +26,11 @@ By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
 <br/>
 
 
-## Usage explanation
+## Prep Your Mindset
+Task :
+While this is a technology course, success with the deluge of work within depends heavily on the mindset that you bring to the table.
 
-
-You will find a separate file for each article/video with it's source and a brief summmary for it.
-
-sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
+With that in mind, this is some prework to get us all on the same page about dealing with difficulty in our lives.
 
 
 <hr/>
@@ -39,9 +39,10 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 <!-- ROADMAP -->
 ## Roadmap
 
-- [1] Each article/video will have it's own README file.
-- [2] The README will contain the link of the article with the Autor name
-- [3] The README will contain Date of the written summary.
+- [1]Including a level-2 heading for each course started with Code
+- [2] Each article/video will have it's own README file.
+- [3] The README will contain the link of the article with the Autor name
+- [4] The README will contain Date of the written summary.
 
 
 
@@ -51,12 +52,8 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 
    
 ## Note :
-   On the main page:
-There is a level-1 heading titled Reading Notes
-Including a description of what this web site is about<br/>
-Also There is a level-2 heading for each course starts with Code.
-<br/>
-Enjoy!
+    If you’ve already watched/read/listened to the below before, just take some time and revisit them.
+    your edits and suggestions are welcome.
  
 <hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
@@ -66,4 +63,4 @@ Enjoy!
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 22 Feb </p>
+  <p align="right">22, 21 Feb </p>
