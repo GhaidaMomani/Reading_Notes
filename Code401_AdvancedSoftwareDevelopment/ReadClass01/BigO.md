@@ -1,13 +1,9 @@
 # A beginner's guide to Big O Notation
 Read: Class 01
 
-<!-- This is the reading notes repository where I keep my favorite articles with their sources.
-       
-       Hope you'll benefit from my reads, Enjoy!
-
+<!-- This is the Code 401 first reads
 
 -->
-
 
 
 Summary of A beginner's guide to Big O Notation Artcicle: <br/>
@@ -33,7 +29,7 @@ By Rob Bell (https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation).
 
 <br/>
 
-![](./OOO.jpg)
+![](./assets/OOO.jpg)
 
 
 <hr/>
@@ -99,7 +95,7 @@ int Fibonacci(int number)
 <hr/>
 
 # So we can tell wich time complexity is good and which to aviod using the O()
-![](big.jpeg)
+![](./assets/big.jpeg)
 
 
 

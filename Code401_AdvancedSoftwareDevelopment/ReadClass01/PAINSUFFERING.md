@@ -3,17 +3,14 @@ Read: Class 01
 
 
 ## That price is **pain**, the **pain** of growth.
-<!-- This is the reading notes repository where I keep my favorite articles with their sources.
-       
-       Hope you'll benefit from my reads, Enjoy!
-
+<!-- This is the Code 401 first reads
 
 -->
 
 
 
 
-By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
+By [CodeFellows] (https://codefellows.github.io/sea-python-401d7/readings/pain_suffering.html).
 <br/>
 <hr/>
 <br/>
@@ -54,7 +51,7 @@ This why I love it and I have never and never will complain about it:
  - [4]you'll meet new people and you have to put it with their complains
  - [5]You’ll be pushed physically, and while sitting in a chair and staring at your screen and forget about your workouts,and Ramdan is commign BTW so forget about food every 2 hours for a 4 straight weeks.
  - [6]you’ll feel exhausted
- - [7]
+
 
 
 
@@ -64,7 +61,6 @@ This why I love it and I have never and never will complain about it:
 
 # Sufferign is different:
 
-"Suffering is pain without purpose. Pain with no higher goal. Pain with no dreams, no ambition, no aspiration."
 
 "Suffering is pain without purpose. Pain with no higher goal. Pain with no dreams, no ambition, no aspiration."
 
