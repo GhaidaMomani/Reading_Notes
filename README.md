@@ -3,8 +3,6 @@
 <!-- This is the reading notes repository where I keep my favorite articles with their sources.
        
        Hope you'll benefit from my reads, Enjoy!
-
-
 -->
 
 
@@ -14,6 +12,7 @@ By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
 <br/>
 <hr/>
 <br/>
+
 
 ## Description
 **Reading_Notes** This is the reading notes repository where I keep my favorite articles with their sources.
@@ -60,6 +59,9 @@ Enjoy!
  
 <hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 
   <br/><br/>
