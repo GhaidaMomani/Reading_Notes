@@ -1,5 +1,8 @@
 # Read Class 02
 ## Code 401 - Advanced Software Development
+
+
+
 <!-- 
        Hope you'll benefit from my reads, Enjoy!
 -->
@@ -8,6 +11,8 @@
 
 
 By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
+
+>>>>>Welcome to Code 401.
 <br/>
 <hr/>
 <br/>

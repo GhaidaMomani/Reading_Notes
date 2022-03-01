@@ -9,6 +9,8 @@
 
 
 By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
+
+>>>>>Welcome to Code 401.
 <br/>
 <hr/>
 <br/>
@@ -50,6 +52,20 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 
 
 
+ |Read Class No. | Title       |
+ |:---------: |:--------------:|
+ |[Read Class 01](ReadClass01/readclass01.md)|Setup Python environment, Pain vs. Suffering, Big O notation
+ |[Read Class 02](ReadClass02/readclass02.md)|In Tests We Trust — TDD with Python, Recursion
+ |[Read Class 03](ReadClass03/readclass03.md)|Python Exceptions, Read & Write Files in Python
+
+
+<hr/>
+    <p align="right">(<a href="#top">back to top</a>)</p>
+
+   
+
+
+   
 ## Note :
    On the main page:
 There is a level-1 heading titled Reading Notes
@@ -69,4 +85,4 @@ Enjoy!
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 22 Feb </p>
+  <p align="right">22, 01 MAR </p>
