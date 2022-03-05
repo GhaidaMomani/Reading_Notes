@@ -177,9 +177,36 @@ def fibonacci_recursive(n):
     <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+#  pytest: Fixtures and Coverage
+
+In pytest, you define fixtures using a combination of the pytest.fixture decorator, along with a function definition. For example, say you have a file that returns a list of lines from a file, in which each line is reversed:
+
+``` py
+def reverse_lines(f):
+   return [one_line.rstrip()[::-1] + '\n'
+           for one_line in f]
+
+```
 
 
 
+
+
+If you're going to test this function, you'll need to pass it a file-like object. In my last article, I showed how you could use a StringIO object for such a thing, and that remains the case. But rather than defining global variables in your test file, you can create a fixture that'll provide your test with the appropriate object at the right time.
+
+Here's how that looks in pytest:
+
+``` py
+@pytest.fixture
+def simple_file():
+   return StringIO('\n'.join(['abc', 'def', 'ghi', 'jkl']))
+
+```
+
+
+
+
+<hr/>
   <br/><br/>
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
