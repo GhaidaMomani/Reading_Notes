@@ -49,6 +49,8 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
  |[Read Class 02](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass02/readclass02)|In Tests We Trust — TDD with Python, Recursion
  |[Read Class 03](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass03/readclass03)|Python Exceptions, Read & Write Files in Python
  |[Read Class 04](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass04/ReadClass04)|Classes and Objects, Thinking Recursively in Python 
+ |[Read Class 05](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass05/ReadClass05)| Implementation: Linked Lists
+<hr/>
 <hr/>
     <p align="right">(<a href="#top">back to top</a>)</p>
 
