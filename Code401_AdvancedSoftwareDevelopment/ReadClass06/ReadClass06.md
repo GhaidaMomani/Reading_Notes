@@ -124,4 +124,4 @@ Moving on! Our next topic queued is as follows:
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 01 MAR </p>
+  <p align="right">22, 12 MAR </p>
