@@ -52,6 +52,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
  |[Read Class 05](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass05/ReadClass05)| Implementation: Linked Lists
  |[Read Class 06](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass06/ReadClass06)| Game of Greed 1
 |[Read Class 07](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass07/ReadCode07)| Game of Greed 2, Python Scopes
+|[Read Class 08 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass08/ReadCode08)| Game of Greed 3, List Comprehensions and Decorators.
 <hr/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
