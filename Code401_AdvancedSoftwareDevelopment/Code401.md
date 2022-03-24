@@ -62,7 +62,8 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 06](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass06/ReadClass06)| Game of Greed 1
 |[Read Class 07](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass07/ReadCode07)| Game of Greed 2, Python Scopes
 |[Read Class 08 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass08/ReadClass08)| Game of Greed 3, List Comprehensions and Decorators.
-
+|[Read Class 09 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass09/ReadClass09)| Game of Greed 3, List Comprehensions and Decorators.
+|[Read Class 10 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass10/ReadClass10)| Stacks and Queues.
 
 
 <hr/>
@@ -81,7 +82,7 @@ Also There is a level-2 heading for each course starts with Code.
 Enjoy!
  
 <hr/>
-    <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -91,4 +92,4 @@ Enjoy!
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 01 MAR </p>
+<p align="right">22, 01 MAR </p>

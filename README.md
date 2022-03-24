@@ -54,6 +54,8 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 07](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass07/ReadCode07)| Game of Greed 2, Python Scopes
 |[Read Class 08 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass08/ReadClass08)| Game of Greed 3, List Comprehensions and Decorators.
 |[Read Class 09 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass09/ReadClass09)| Game of Greed 3, List Comprehensions and Decorators.
+|[Read Class 10 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass10/ReadClass10)| Stacks and Queues.
+<hr/>
 <hr/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
