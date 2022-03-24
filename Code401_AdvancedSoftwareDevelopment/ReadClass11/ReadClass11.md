@@ -12,8 +12,6 @@ By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
 <br/>
 
 
-#
-
 # Data Analysis: JupyterLab/ Overview
 [Link](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 **JupyterLab** is a next-generation web-based user interface for Project Jupyter.
