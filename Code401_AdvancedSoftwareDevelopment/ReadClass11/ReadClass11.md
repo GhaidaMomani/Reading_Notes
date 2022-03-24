@@ -75,7 +75,7 @@ JupyterLab is served from the same server and uses the same notebook document fo
 * NumPy is short for "Numerical Python".
 
 
-**Let's Take a looka the dimentions of an array :**
+**Let's Take a look at the dimentions of an array :**
 
 ![](../assests/numpy.png)
 
