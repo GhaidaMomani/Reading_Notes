@@ -55,7 +55,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 08 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass08/ReadClass08)| Game of Greed 3, List Comprehensions and Decorators.
 |[Read Class 09 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass09/ReadClass09)| Game of Greed 3, List Comprehensions and Decorators.
 |[Read Class 10 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass10/ReadClass10)| Stacks and Queues.
-|[Read Class 11 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass11/ReadClass11)| Jupiter and Numpy.
+|[Read Class 11 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass11/ReadClass11)| Data Analysis: Jupiter and Numpy.
 
 <hr/>
 <hr/>

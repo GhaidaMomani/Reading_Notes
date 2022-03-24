@@ -1,6 +1,6 @@
 # Reading_Notes
 ## Code 401 - Advanced Software Development
-
+## Data Analysis
 
 
 
@@ -12,9 +12,9 @@ By [Ghaida Al Momani] (https://github.com/GhaidaMomani).
 <br/>
 
 
+#
 
-
-# JupyterLab/ Overview
+# Data Analysis: JupyterLab/ Overview
 [Link](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 **JupyterLab** is a next-generation web-based user interface for Project Jupyter.
 
@@ -66,7 +66,7 @@ JupyterLab is served from the same server and uses the same notebook document fo
 
 
 
-# NumPy Tutorial: Data Analysis with Python
+# Data Analysis: NumPy Tutorial
 [By Vik Paruchuri](https://www.dataquest.io/blog/numpy-tutorial-python/)
 * NumPy is a Python library.
 
