@@ -164,4 +164,4 @@ Fit a model X_train, and calculate MSE with Y_train: 19.5467584735 Fit a model X
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-<p align="right">22, 28 MAR </p>
+<p align="right">22, 02 APR </p>
