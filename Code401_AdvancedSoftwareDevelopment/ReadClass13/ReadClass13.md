@@ -61,10 +61,16 @@ it is a powerful Python module for machine learning. It contains function for re
 
 
 1- The first step is to import the required Python libraries into Ipython Notebook.
+
 2- print the feature names of boston data set.
+
 3- convert boston.data into a pandas data frame.
+
 4- replace column names numbers with the feature names.
+
 5- Add the target prices to the bos data frame.
+
+
 
 ## Scikit Learn
 
