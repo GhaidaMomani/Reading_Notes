@@ -58,6 +58,8 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 11 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass11/ReadClass11)| Data Analysis: Jupiter and Numpy.
 |[Read Class 12 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass12/ReadClass12)| pandas¶
 |[Read Class 13 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass13/ReadClass13)|Linear Regression in Python
+|[Read Class 14 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass14/ReadClass14)|Data Visualization 
+<hr/>
 <hr/>
 <hr/>
 
