@@ -61,6 +61,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 14 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass14/ReadClass14)|Data Visualization 
 |[Read Class 15 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass15/ReadClass15)|Trees
 |[Read Class 16 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass16/ReadClass16)|Serverless functions
+|[Read Class 17 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass17/ReadClass17)|Web Scraping
 <hr/>
 <hr/>
 <hr/>
