@@ -64,7 +64,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 17 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass17/ReadClass17)|Web Scraping
 |[Read Class 26 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass26/ReadClass26)| About Django
 |[Read Class 27 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass27/ReadClass27)|Django models
-|[Read Class 28 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass28/ReadClass28)|Django models
+|[Read Class 28 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass28/ReadClass28)|Django CRUD and Forms
 <hr/>
 <hr/>
 <hr/>
