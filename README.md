@@ -93,4 +93,4 @@ Enjoy!
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 22 FEB </p>
+  <p align="right">22, 17 May </p>
