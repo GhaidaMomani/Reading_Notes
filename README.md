@@ -66,6 +66,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 27 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass27/ReadClass27)|Django models
 |[Read Class 28 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass28/ReadClass28)|Django CRUD and Forms
 |[Read Class 29 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass29/ReadClass29)|Django Custom User Model
+|[Read Class 30 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass30/ReadClass30)|Hash Tables
 <hr/>
 <hr/>
 <hr/>
@@ -93,4 +94,4 @@ Enjoy!
 
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 17 May </p>
+  <p align="right">22, 22 Feb </p>
