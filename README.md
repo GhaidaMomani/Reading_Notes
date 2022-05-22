@@ -67,7 +67,11 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 28 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass28/ReadClass28)|Django CRUD and Forms
 |[Read Class 29 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass29/ReadClass29)|Django Custom User Model
 |[Read Class 30 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass30/ReadClass30)|Hash Tables
-|[Read Class 30 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass31/ReadClass31)|Django REST Framework & Docker
+|[Read Class 31 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass31/ReadClass31)|Django REST Framework & Docker
+|[Read Class 32 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass32/ReadClass32)|Permissions & Postgresql
+
+
+
 <hr/>
 <hr/>
 <hr/>
