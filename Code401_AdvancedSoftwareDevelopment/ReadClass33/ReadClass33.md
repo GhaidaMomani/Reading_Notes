@@ -97,7 +97,7 @@ A production setup usually consists of multiple components, each designed and bu
 
 When a request arrives at your server, it should be passed to a dedicated web server. Nginx is an example for a good web server.
 
-![](/Code401_AdvancedSoftwareDevelopment/assests/wsgi.png)
+![](../assests/wsgi.png)
 
 
 <hr/>
@@ -105,10 +105,9 @@ When a request arrives at your server, it should be passed to a dedicated web se
 
 
 # What is JSON Web Token?
-JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object
 
-
-![](/Code401_AdvancedSoftwareDevelopment/assests/xdc4axtmpwsut743q2s2.png)
+![](../assests/xdc4axtmpwsut743q2s2.png)
 
 
 
