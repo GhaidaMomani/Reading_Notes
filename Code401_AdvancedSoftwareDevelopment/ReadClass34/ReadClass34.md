@@ -107,4 +107,4 @@ The example below shows a typical SSH prompt. Any Linux or macOS user can SSH in
 <br/><br/>
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-  <p align="right">22, 28 May </p>
+  <p align="right">22, 31 May </p>
