@@ -71,6 +71,9 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 32 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass32/ReadClass32)|Permissions & Postgresql
 |[Read Class 33 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass33/ReadClass33)|Authentication & Production Server
 |[Read Class 34 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass34/ReadClass34)|API Deployment 
+|[Read Class 35 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass35/ReadClass35)| Graphs
+
+
 
 <hr/>
 <hr/>
