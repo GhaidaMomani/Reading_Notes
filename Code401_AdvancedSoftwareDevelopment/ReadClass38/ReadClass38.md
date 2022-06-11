@@ -235,4 +235,4 @@ One of the many great parts of React is how it makes you think about apps as you
 <br/><br/>
 <p align="right">Ghaida Al Momani, Software Engineer</p>
 <p align="right">Jordan, Amman</p>
-<p align="right">22, 6 June </p>
+<p align="right">22, 1 June </p>

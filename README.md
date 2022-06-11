@@ -74,7 +74,7 @@ sometimes I put my own thoughts and ideas of it, sometimes i prefer not!
 |[Read Class 35 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass35/ReadClass35)| Graphs
 |[Read Class 36 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass36/ReadClass36)| Whiteboard Interview
 |[Read Class 37 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass37/ReadClass37)| ES6 Overview
-|[Read Class 37 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass38/ReadClass38)| React 2
+|[Read Class 38 ](https://ghaidamomani.github.io/Reading_Notes/Code401_AdvancedSoftwareDevelopment/ReadClass38/ReadClass38)| React 2
 
 
 
